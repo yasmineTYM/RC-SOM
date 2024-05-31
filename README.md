@@ -1,5 +1,5 @@
 # PhraseMap: Attention-based Keyphrases Recommendation for Information Seeking
-This repository contains the implementation of the RC-SOM algorithm presented in our paper: "PhraseMap: Attention-based Keyphrases Recommendation for Information Seeking".
+This repository contains the implementation of the RC-SOM algorithm presented in our paper: [https://ieeexplore.ieee.org/document/9964397]("PhraseMap: Attention-based Keyphrases Recommendation for Information Seeking".)
 
 ## Overview
 The Resource-Controlled Self-Organizing Map (RC-SOM) extends the traditional Self-Organizing Map (SOM) to achieve resource-controlled mapping, making it suitable for dimensionality reduction from high-dimensional space to 2D cells.
