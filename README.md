@@ -1,11 +1,8 @@
 # PhraseMap: Attention-based Keyphrases Recommendation for Information Seeking
-This repository contains the implementation of the RC-SOM algorithm presented in our paper: [https://ieeexplore.ieee.org/document/9964397]("PhraseMap: Attention-based Keyphrases Recommendation for Information Seeking".)
+This repository contains the implementation of the RC-SOM algorithm presented in our paper: ["PhraseMap:Attention-based Keyphrases Recommendation for Information Seeking"](https://ieeexplore.ieee.org/document/9964397).
 
 ## Overview
-The Resource-Controlled Self-Organizing Map (RC-SOM) extends the traditional Self-Organizing Map (SOM) to achieve resource-controlled mapping, making it suitable for dimensionality reduction from high-dimensional space to 2D cells.
-
-The SOM is an unsupervised machine learning technique that projects high-dimensional data onto a low-dimensional discrete map while preserving the data structure. 
-
+The Resource-Controlled Self-Organizing Map (RC-SOM) extends the traditional Self-Organizing Map (SOM) to achieve resource-controlled mapping, making it suitable for dimensionality reduction from high-dimensional space to 2D cells. Please refer to our paper for more details 
 ## Usage 
 Below is an example of how to call our functions:
 
@@ -55,4 +52,4 @@ print(mapping)
 ```
 
 ## Description 
-We implement RC-SOM based on the [https://pypi.org/project/MiniSom/](MiniSom). 
+We implement RC-SOM based on the [MiniSom](https://pypi.org/project/MiniSom/). 
